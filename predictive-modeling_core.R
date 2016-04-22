@@ -4,10 +4,11 @@ suppressMessages(library(rgdal))
 suppressMessages(library(foreach))
 suppressMessages(library(caret))
 
-workdir="E:/Dokumente/Skripte/R/R_scripts_ForestBiomass/"
+# deifne your working directory
+workdir="E:/"
 
 #load ancillary functions
-source(paste(workdir, "ForestBiomass_functions.R", sep=""))
+source(paste(workdir, "predictive-modeling_functions.R", sep=""))
 
 #KAR/THF
 site="THF"
