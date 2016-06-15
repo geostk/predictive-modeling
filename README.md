@@ -5,4 +5,4 @@ these scripts are intended to do the following:
 * predict a response variable for a larger area where raster data is available
 * plot the accuracy of the model using beanplots
 * plot variable importance of the used predictors
-* save the resulting response variable precition maps to geotiff
+* save the resulting response variable prediction maps to geotiff
